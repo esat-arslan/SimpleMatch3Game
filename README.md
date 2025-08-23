@@ -139,7 +139,7 @@ While the core gameplay is complete, potential additions could include:
 ## 📱 Build Information
 
 - **Unity Version**: 2022.3.16f1 LTS
-- **Target Platforms**: Windows, macOS, Linux (expandable)
+- **Target Platforms**: Android, IOS
 - **Input System**: Unity's new Input System
 - **Rendering**: Universal Render Pipeline compatible
 
