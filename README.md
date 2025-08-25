@@ -22,6 +22,11 @@ Match3c is a classic match-3 puzzle game where players swap adjacent tiles to cr
 - **Scriptable Objects**: Flexible item system with sprite and value properties
 - **Responsive UI**: Real-time score display updates
 
+📷 GamePlay
+
+
+[![Watch the video](https://img.youtube.com/vi/imJuWZ08RSA/hqdefault.jpg)](https://youtu.be/imJuWZ08RSA)
+
 ## 🏗️ Project Structure
 
 ```
